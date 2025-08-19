@@ -7,7 +7,7 @@ permalink: /
 ---
 
 
-# APS Born Digital
+# APS Born Digital Program Documentation
 
 Github Pages site for documentation for American Philosophical Society born digital program.
 
