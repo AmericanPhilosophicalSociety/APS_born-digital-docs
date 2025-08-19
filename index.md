@@ -1,3 +1,12 @@
+---
+title: Home
+layout: home
+nav_order: 1
+description: "Home page for APS born digital documentation."
+permalink: /
+---
+
+
 # APS Born Digital
 
 Github Pages site for documentation for American Philosophical Society born digital program.
