@@ -1,8 +1,14 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: APS Born Digital Documentation
+email: borndigital@amphilsoc.org
+description: >- # this means to ignore newlines until "baseurl:"
+  American Philosophical Society website for documentation related to work on born digital materials.
+baseurl: /APS_born-digital-docs # the subpath of your site, e.g. /blog
+url: "https://AmericanPhilosophicalSociety.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
 theme: just-the-docs
+plugins:
+  - jekyll-feed
 
-url: https://just-the-docs.github.io
-
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+last_edit_timestamp: true
+last_edit_time_format: "%B %e %Y"
